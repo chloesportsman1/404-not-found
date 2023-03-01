@@ -1,6 +1,12 @@
-<!-- Please update value in the {}  -->
 
-<h1 align="center">{uh oh...}</h1>
+<head>
+<
+</head>
+
+<h1 align="center">gasp!</h1
+<h2 class="404" align="center">we've got a 404! I repeat we've got a 404!</h2>
+
+
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
