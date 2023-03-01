@@ -1,13 +1,14 @@
 
 
-   <h1 align="center">gasp!</h1>
+   <h1 align="center">*gasp!*</h1>
+ <table align="center">
+   <tr>
 
-
-
-
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+<td valign="top"><img src="https://user-images.githubusercontent.com/126715167/222258755-551eccfd-658d-40bc-b09a-c19e0d9866b1.png" width="370" height="370">
+<td valign ="center"><h2>404! We've got a 404!</h2>
+   </tr>
+      </table>
+      
 
 <div align="center">
   <h3>
