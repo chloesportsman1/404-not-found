@@ -1,12 +1,7 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
 
-<h1 align="center">gasp!</h1
-<h2 class="404" align="center">we've got a 404! I repeat we've got a 404!</h2>
+
+   <h1 align="center">gasp!</h1>
+
 
 
 
@@ -81,5 +76,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@your-username](https://{github.com/your-usermame})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
-   </body>
-</html>
+   
